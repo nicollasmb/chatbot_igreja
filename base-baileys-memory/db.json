@@ -1,0 +1,56 @@
+[
+  {
+    "ref": "ans_eeb357de-8dbd-4b21-ae2f-0f8394db04bd",
+    "keyword": "key_81c40476-fc4b-4095-a4c1-23781b4246a9",
+    "answer": "Para adquirir suas cartelas *siga estes passos*:\n - Cada cartela custa R$10,00\n - Faça o PIX do valor das cartelas que deseja adquirir para a chave 07.291.547/0001-32\n - Envie seu comprovante aqui",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "4c6f0d1640a3a78c171796d0c89a0099",
+    "from": "554298204000"
+  },
+  {
+    "ref": "ans_37bf634f-79d8-43e0-b231-8f2958d73810",
+    "keyword": "ans_eeb357de-8dbd-4b21-ae2f-0f8394db04bd",
+    "answer": "Após receber o comprovante, vamos enviar uma foto das suas cartelas.\n\n*Qualquer dúvida pode me perguntar!*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 2200,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "660f41cfa172b1d07731db709c106f2e",
+    "from": "554298204000"
+  },
+  {
+    "ref": "543a6770-204b-4f5e-bd87-6ba6376dd9ea",
+    "keyword": "660f41cfa172b1d07731db709c106f2e",
+    "answer": "Teste",
+    "options": {},
+    "from": "554298204000",
+    "refSerialize": "6dfcf5d4bee5742f934597b591e51ef0"
+  },
+  {
+    "ref": "2f520abe-8f8d-4d75-8591-004093ca7b23",
+    "keyword": "6dfcf5d4bee5742f934597b591e51ef0",
+    "answer": "Teste",
+    "options": {},
+    "from": "554298204000",
+    "refSerialize": "6dfcf5d4bee5742f934597b591e51ef0"
+  }
+]
